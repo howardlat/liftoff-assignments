@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+https://github.com/howardlat/liftoff-assignments/commit/3cd110775afdb96edc51a45f3b90f5b290c2f361#diff-09fe0f868cc4fe3bd7fe8122dd6a3541
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://app.gitkraken.com/glo/board/XEIdaDlDSQAP5i7Q
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/howardlat/liftoff-assignments.git
